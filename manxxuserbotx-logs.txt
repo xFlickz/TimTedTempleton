@@ -1,0 +1,101 @@
+2022-01-23T06:45:07.799072+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/updates.py", line 467, in _dispatch_update
+2022-01-23T06:45:07.799073+00:00 app[worker.1]:     await callback(event)
+2022-01-23T06:45:07.799073+00:00 app[worker.1]:   File "/home/manuserbot/userbot/modules/chatbot.py", line 67, in tede_chatbot
+2022-01-23T06:45:07.799073+00:00 app[worker.1]:     tr = translator.translate(rep, LANGUAGE)
+2022-01-23T06:45:07.799074+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/googletrans/client.py", line 219, in translate
+2022-01-23T06:45:07.799074+00:00 app[worker.1]:     parsed = json.loads(data[0][2])
+2022-01-23T06:45:07.799075+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/json/__init__.py", line 339, in loads
+2022-01-23T06:45:07.799075+00:00 app[worker.1]:     raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+2022-01-23T06:45:07.799076+00:00 app[worker.1]: TypeError: the JSON object must be str, bytes or bytearray, not NoneType
+2022-01-23T06:45:08.114140+00:00 app[worker.1]: [userbot] - [INFO] - ERROR: API chatbot sedang down, report ke @tedesupport.
+2022-01-23T06:45:08.158621+00:00 app[worker.1]: [telethon.client.updates] - [ERROR] - Unhandled exception on tede_chatbot
+2022-01-23T06:45:08.158624+00:00 app[worker.1]: Traceback (most recent call last):
+2022-01-23T06:45:08.158636+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/updates.py", line 467, in _dispatch_update
+2022-01-23T06:45:08.158637+00:00 app[worker.1]:     await callback(event)
+2022-01-23T06:45:08.158637+00:00 app[worker.1]:   File "/home/manuserbot/userbot/modules/chatbot.py", line 67, in tede_chatbot
+2022-01-23T06:45:08.158637+00:00 app[worker.1]:     tr = translator.translate(rep, LANGUAGE)
+2022-01-23T06:45:08.158638+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/googletrans/client.py", line 219, in translate
+2022-01-23T06:45:08.158638+00:00 app[worker.1]:     parsed = json.loads(data[0][2])
+2022-01-23T06:45:08.158638+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/json/__init__.py", line 339, in loads
+2022-01-23T06:45:08.158639+00:00 app[worker.1]:     raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+2022-01-23T06:45:08.158639+00:00 app[worker.1]: TypeError: the JSON object must be str, bytes or bytearray, not NoneType
+2022-01-23T07:04:34.383648+00:00 app[worker.1]: [userbot] - [INFO] - ERROR: API chatbot sedang down, report ke @tedesupport.
+2022-01-23T07:04:34.433541+00:00 app[worker.1]: [telethon.client.updates] - [ERROR] - Unhandled exception on tede_chatbot
+2022-01-23T07:04:34.433546+00:00 app[worker.1]: Traceback (most recent call last):
+2022-01-23T07:04:34.433547+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/updates.py", line 467, in _dispatch_update
+2022-01-23T07:04:34.433548+00:00 app[worker.1]:     await callback(event)
+2022-01-23T07:04:34.433549+00:00 app[worker.1]:   File "/home/manuserbot/userbot/modules/chatbot.py", line 67, in tede_chatbot
+2022-01-23T07:04:34.433549+00:00 app[worker.1]:     tr = translator.translate(rep, LANGUAGE)
+2022-01-23T07:04:34.433550+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/googletrans/client.py", line 219, in translate
+2022-01-23T07:04:34.433550+00:00 app[worker.1]:     parsed = json.loads(data[0][2])
+2022-01-23T07:04:34.433550+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/json/__init__.py", line 339, in loads
+2022-01-23T07:04:34.433551+00:00 app[worker.1]:     raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+2022-01-23T07:04:34.433551+00:00 app[worker.1]: TypeError: the JSON object must be str, bytes or bytearray, not NoneType
+2022-01-23T07:05:02.234614+00:00 app[worker.1]: [userbot] - [INFO] - ERROR: API chatbot sedang down, report ke @tedesupport.
+2022-01-23T07:05:02.323388+00:00 app[worker.1]: [telethon.client.updates] - [ERROR] - Unhandled exception on tede_chatbot
+2022-01-23T07:05:02.323390+00:00 app[worker.1]: Traceback (most recent call last):
+2022-01-23T07:05:02.323391+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/updates.py", line 467, in _dispatch_update
+2022-01-23T07:05:02.323392+00:00 app[worker.1]:     await callback(event)
+2022-01-23T07:05:02.323392+00:00 app[worker.1]:   File "/home/manuserbot/userbot/modules/chatbot.py", line 67, in tede_chatbot
+2022-01-23T07:05:02.323392+00:00 app[worker.1]:     tr = translator.translate(rep, LANGUAGE)
+2022-01-23T07:05:02.323393+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/googletrans/client.py", line 219, in translate
+2022-01-23T07:05:02.323393+00:00 app[worker.1]:     parsed = json.loads(data[0][2])
+2022-01-23T07:05:02.323394+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/json/__init__.py", line 339, in loads
+2022-01-23T07:05:02.323394+00:00 app[worker.1]:     raise TypeError(f'the JSON object must be str, bytes or bytearray, '
+2022-01-23T07:05:02.323394+00:00 app[worker.1]: TypeError: the JSON object must be str, bytes or bytearray, not NoneType
+2022-01-23T07:56:57.878757+00:00 heroku[worker.1]: Cycling
+2022-01-23T07:56:58.002426+00:00 heroku[worker.1]: State changed from up to starting
+2022-01-23T07:56:59.344154+00:00 heroku[worker.1]: Stopping all processes with SIGTERM
+2022-01-23T07:56:59.686595+00:00 heroku[worker.1]: Process exited with status 143
+2022-01-23T07:57:32.925179+00:00 heroku[worker.1]: Starting process with command `python3 -m userbot`
+2022-01-23T07:57:33.566442+00:00 heroku[worker.1]: State changed from starting to up
+2022-01-23T07:57:35.946535+00:00 app[worker.1]: [userbot] - [INFO] - Modules To Load : ['__help', 'admin', 'adzan', 'aeshtetic', 'afk', 'amongus', 'android', 'anilist', 'animals', 'animation', 'anime', 'anti_spambot', 'antiflood', 'appmisc', 'arts', 'ascii', 'asupan', 'bitly', 'blacklist', 'botcontrol', 'broadcast', 'button', 'carbon', 'chat', 'chatbot', 'clone', 'convert', 'core', 'covid', 'create', 'createstickers', 'custom', 'deepfry', 'direct_links', 'emojigames', 'evaluators', 'fakeaction', 'fakegban', 'fban', 'figlet', 'filemanager', 'filter', 'fun', 'funmemes', 'games', 'gban', 'gcast', 'getid', 'getmusic', 'gitcommit', 'github', 'gkick', 'glitcher', 'globalban', 'gps', 'hash', 'hazmat', 'help', 'helper', 'hentai', 'heroku', 'imgmemes', 'justfun', 'kamuii', 'lastfm', 'lock', 'log', 'logo', 'lyrics', 'memes', 'memify', 'mentions', 'misc', 'nekos_img', 'nhentai', 'notes', 'nsfwdetect', 'offline', 'oi', 'other', 'paste', 'pdf', 'phreaker', 'pics', 'ping', 'pmbot', 'pmpermit', 'profile', 'punten', 'purge', 'quotly', 'rastick', 'reverse', 'salam', 'sangmata', 'scrapers', 'sed', 'shazam', 'shortlink', 'sosmed', 'spam', 'ss_video', 'stats', 'stickers', 'sudo', 'system_stats', 'tag', 'tag_all', 'telegraph', 'tiktok', 'time_date', 'tiny', 'torrentsearch', 'transform', 'updater', 'upload_download', 'vcplugin', 'vctools', 'waifu', 'weather', 'webupload', 'welcomes', 'whois', 'wordcloud', 'xiaomi', 'zipfile']
+2022-01-23T07:57:38.219975+00:00 app[worker.1]: [telethon.client.users] - [INFO] - Phone migrated to 5
+2022-01-23T07:57:38.220129+00:00 app[worker.1]: [telethon.client.telegrambaseclient] - [INFO] - Reconnecting to new data center 5
+2022-01-23T07:58:39.176033+00:00 app[worker.1]: [userbot] - [INFO] - Jika XFlick_bot Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+2022-01-23T07:58:39.176074+00:00 app[worker.1]: [userbot] - [INFO] - Man-Userbot ⚙️ V2.3.4 [🔥 BERHASIL DIAKTIFKAN! 🔥]
+2022-01-23T07:58:39.851183+00:00 app[worker.1]: [telethon.client.updates] - [ERROR] - Unhandled exception on on_update
+2022-01-23T07:58:39.851192+00:00 app[worker.1]: Traceback (most recent call last):
+2022-01-23T07:58:39.851193+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/updates.py", line 467, in _dispatch_update
+2022-01-23T07:58:39.851194+00:00 app[worker.1]:     await callback(event)
+2022-01-23T07:58:39.851195+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/pytgcalls/mtproto/telethon_client.py", line 86, in on_update
+2022-01-23T07:58:39.851195+00:00 app[worker.1]:     await self._app.get_entity(update.chat_id),
+2022-01-23T07:58:39.851196+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/users.py", line 292, in get_entity
+2022-01-23T07:58:39.851197+00:00 app[worker.1]:     inputs.append(await self.get_input_entity(x))
+2022-01-23T07:58:39.851197+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/users.py", line 466, in get_input_entity
+2022-01-23T07:58:39.851197+00:00 app[worker.1]:     raise ValueError(
+2022-01-23T07:58:39.851205+00:00 app[worker.1]: ValueError: Could not find the input entity for PeerUser(user_id=1596523977) (PeerUser). Please read https://docs.telethon.dev/en/latest/concepts/entities.html to find out more details.
+2022-01-23T07:58:39.864503+00:00 app[worker.1]: [telethon.client.updates] - [ERROR] - Unhandled exception on on_update
+2022-01-23T07:58:39.864506+00:00 app[worker.1]: Traceback (most recent call last):
+2022-01-23T07:58:39.864507+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/updates.py", line 467, in _dispatch_update
+2022-01-23T07:58:39.864508+00:00 app[worker.1]:     await callback(event)
+2022-01-23T07:58:39.864509+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/pytgcalls/mtproto/telethon_client.py", line 86, in on_update
+2022-01-23T07:58:39.864509+00:00 app[worker.1]:     await self._app.get_entity(update.chat_id),
+2022-01-23T07:58:39.864509+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/users.py", line 292, in get_entity
+2022-01-23T07:58:39.864510+00:00 app[worker.1]:     inputs.append(await self.get_input_entity(x))
+2022-01-23T07:58:39.864511+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/users.py", line 466, in get_input_entity
+2022-01-23T07:58:39.864511+00:00 app[worker.1]:     raise ValueError(
+2022-01-23T07:58:39.864512+00:00 app[worker.1]: ValueError: Could not find the input entity for PeerUser(user_id=1596523977) (PeerUser). Please read https://docs.telethon.dev/en/latest/concepts/entities.html to find out more details.
+2022-01-23T12:24:26.698489+00:00 app[worker.1]: [telethon.client.updates] - [ERROR] - Unhandled exception on on_update
+2022-01-23T12:24:26.698497+00:00 app[worker.1]: Traceback (most recent call last):
+2022-01-23T12:24:26.698498+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/updates.py", line 467, in _dispatch_update
+2022-01-23T12:24:26.698499+00:00 app[worker.1]:     await callback(event)
+2022-01-23T12:24:26.698499+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/pytgcalls/mtproto/telethon_client.py", line 86, in on_update
+2022-01-23T12:24:26.698499+00:00 app[worker.1]:     await self._app.get_entity(update.chat_id),
+2022-01-23T12:24:26.698500+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/users.py", line 292, in get_entity
+2022-01-23T12:24:26.698501+00:00 app[worker.1]:     inputs.append(await self.get_input_entity(x))
+2022-01-23T12:24:26.698501+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/users.py", line 466, in get_input_entity
+2022-01-23T12:24:26.698501+00:00 app[worker.1]:     raise ValueError(
+2022-01-23T12:24:26.698502+00:00 app[worker.1]: ValueError: Could not find the input entity for PeerUser(user_id=1228162868) (PeerUser). Please read https://docs.telethon.dev/en/latest/concepts/entities.html to find out more details.
+2022-01-23T12:24:26.732015+00:00 app[worker.1]: [telethon.client.updates] - [ERROR] - Unhandled exception on on_update
+2022-01-23T12:24:26.732017+00:00 app[worker.1]: Traceback (most recent call last):
+2022-01-23T12:24:26.732024+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/updates.py", line 467, in _dispatch_update
+2022-01-23T12:24:26.732026+00:00 app[worker.1]:     await callback(event)
+2022-01-23T12:24:26.732026+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/pytgcalls/mtproto/telethon_client.py", line 86, in on_update
+2022-01-23T12:24:26.732027+00:00 app[worker.1]:     await self._app.get_entity(update.chat_id),
+2022-01-23T12:24:26.732027+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/users.py", line 292, in get_entity
+2022-01-23T12:24:26.732028+00:00 app[worker.1]:     inputs.append(await self.get_input_entity(x))
+2022-01-23T12:24:26.732028+00:00 app[worker.1]:   File "/usr/local/lib/python3.9/site-packages/telethon/client/users.py", line 466, in get_input_entity
+2022-01-23T12:24:26.732028+00:00 app[worker.1]:     raise ValueError(
+2022-01-23T12:24:26.732032+00:00 app[worker.1]: ValueError: Could not find the input entity for PeerUser(user_id=1228162868) (PeerUser). Please read https://docs.telethon.dev/en/latest/concepts/entities.html to find out more details.
+
